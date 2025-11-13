@@ -34,6 +34,11 @@ User Query --> Retriever (top-k) ---------------┘
 		    Answer + Source Chunks
 ```
 
+<p align="center">
+  <img src="./Architecture.png" alt="Technical Architecture" width="800"/>
+</p>
+
+
 ### Main Components
 | File | Role |
 |------|------|
